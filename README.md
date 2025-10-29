@@ -4,7 +4,7 @@
 
 To study the problem statement, SRS document and draw all the UML diagrams of a Student Registration System.
 
-# SRS (Procedure):
+# Procedure :
 ## UseCase Diagram
 - First, identify the **actors** (like `Student`, `Admin`, `Faculty`) and the **system boundary** (the "Student Registration System" box). Then, list all the **use cases** (functions like `Register Courses`, `Manage Courses`, `View Grades`) inside the boundary and connect each actor to the functions they perform.
 
